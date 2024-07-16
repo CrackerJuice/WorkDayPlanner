@@ -8,7 +8,7 @@
 This application is a simple work day scheduler. You can write any tasks you need to get done in the seperate time blocks and if you hit the save button what you wrote will be saved and display even after you refresh your browser or close the browser and come back several hours later. 
 
 ## Installation
-N/A
+Clone this repo into your project and open the application in the browser. 
 
 ## License
 Licensed under the MIT License
